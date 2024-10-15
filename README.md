@@ -5,6 +5,7 @@
 ### Para este ejercicio se descargó un archivo de Kaggle con el TOP 100 de descargas de SPOTIFY y se aplicó el método de K-MEANS para desarrollar un sistema de recomendación
 [Abrir el código](RECOMENDACIONKMEDIAS/RECOMENDACIONKMEDIAS.ipynb)
 
+## ALGORITMOS SUPERVISADOS
 ## REGRESION
 ### Para este ejercicio se utilizó un Toy DataSet de SKLearn: Diabetes
 [Abrir el código](REGRESION/REGRESION.ipynb)
