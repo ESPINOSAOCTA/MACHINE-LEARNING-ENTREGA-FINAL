@@ -6,6 +6,7 @@
 
 ## REGRESION
 ### Para este ejercicio se utilizó un Toy DataSet de SKLearn: Diabetes
+[este cuaderno](REGRESION/REGRESION.ipynb)
 
 ## ARBOLES DE DECISION
 ### Para este ejercicio se utilizó un Toy Dataset de SKLearn: Wine recognition
