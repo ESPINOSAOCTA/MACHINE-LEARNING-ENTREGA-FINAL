@@ -11,11 +11,11 @@
 
 ## ARBOLES DE DECISION
 ### Para este ejercicio se utilizó un Toy Dataset de SKLearn: Wine recognition
-[Abrir el código](ARBOLES/ARBOLES_(1)(1).ipnynb)
+[Abrir el código](ARBOLES/ARBOLES.ipnynb)
 
 ## REDES NEURONALES
 ### Para este ejercicio se utilizó un Toy Dataset de SKLearn: Breast cancer wisconsin
-[Abrir el código](REDES NEURONALES/Untitled26(1).ipynb)
+[Abrir el código](REDESNEURONALES/REDESNEURONALES.ipynb)
 
 ## ARENA DE CLASIFICADORES
 ### Para este ejercicio se utilizó nuevamente el dataset de SKLearn: Wine recognition
