@@ -19,7 +19,7 @@
 
 ## ARENA DE CLASIFICADORES
 ### Para este ejercicio se utilizó nuevamente el dataset de SKLearn: Wine recognition
-[Abrir el código](EVALUACION DE MODELOS/ML_Lazy_wine(1).ipynb)
+[Abrir el código](EVALUACIONDEMODELOS/MLLazywine(1).ipynb)
 ### También se aplicaron los clasificadores SVM y NaiveBayes
-[Abrir el código](EVALUACION DE MODELOS/SVM_y_NB.ipynb)
+[Abrir el código](EVALUACIONDEMODELOS/SVMyNB.ipynb)
 
