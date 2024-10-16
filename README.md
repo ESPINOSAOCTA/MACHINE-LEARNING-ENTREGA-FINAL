@@ -6,15 +6,15 @@
 [Abrir el código](RECOMENDACIONKMEDIAS/RECOMENDACIONKMEDIAS.ipynb)
 
 ## ALGORITMOS SUPERVISADOS
-## REGRESION
+## Regresión
 ### Para este ejercicio se utilizó un Toy DataSet de SKLearn: Diabetes
 [Abrir el código](REGRESION/REGRESION.ipynb)
 
-## ARBOLES DE DECISION
+## Arboles de decisión
 ### Para este ejercicio se utilizó un Toy Dataset de SKLearn: Wine recognition
 [Abrir el código](ARBOLES/ARBOLES.ipynb)
 
-## REDES NEURONALES
+## Redes Neuronales
 ### Para este ejercicio se utilizó un Toy Dataset de SKLearn: Breast cancer wisconsin
 [Abrir el código](REDESNEURONALES/REDESNEURONALES.ipynb)
 
